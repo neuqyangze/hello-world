@@ -10,4 +10,15 @@
 > 
 > [String的最大长度是多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MjYyOTgwNw==&mid=2247487389&idx=1&sn=bfa8cbc7995aa6d1ca86e75502f7c65a&chksm=cf52825df8250b4b64aa1f82cf27f66f4f5db44e7988bc01118ce456561d7a8b93860a8843d6&scene=178&cur_album_id=1957360767096193027#rd)
 
+> [还不懂单点登录系统？看看这8幅漫画~](https://mp.weixin.qq.com/s/83M7sGTIakSXBVEs0Cq-0Q)
+> 
+> [单点登录的三种实现方式](https://mp.weixin.qq.com/s/00pSQ7ta_zDe-lGLjmcAbw)
+> 
+
+> [Intellij idea高效使用教程](https://mp.weixin.qq.com/s/miZ-mumvzK1RGyLl1_Rqug)
+
+> 
+
+> 
+
 > 
